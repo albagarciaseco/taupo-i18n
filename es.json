@@ -100,7 +100,7 @@
     "context": "Error message presented when the reCaptcha session has expired and the user must reload the page to continue."
   },
   "plusError16": {
-    "message": "Error: contraseñas no coinciden",
+    "message": "Error: las contraseñas no coinciden",
     "context": "Error message presented when entered password do not match one another."
   },
   "plusError20": {
@@ -120,7 +120,7 @@
     "context": "Error message presented when entered password does not contain at least one digit."
   },
   "plusError100": {
-    "message": "Error de red. Por favor verifique su conexión e intente de nuevo.",
+    "message": "Error de red. Por favor compruebe su conexión e intente de nuevo.",
     "context": "Error message presented when there is a network / internet issue."
   },
   "plusError600": {
@@ -132,7 +132,7 @@
     "context": "Error message presented when attempting to follow a record the user is already following."
   },
   "plusError602": {
-    "message": "Error: No se puede dejar de seguir este registro ya que no están actualmente siguiendolo",
+    "message": "Error: No se puede dejar de seguir este registro ya que actualmente no está siguiendolo",
     "context": "Error message presented when "
   },
   "plusError9999": {
@@ -140,7 +140,7 @@
     "context": "Error message presented when an unknown error has occurred."
   },
   "errorGettingSubscription": {
-    "message": "Error al obtener información de subscripción. Por favor vuelva a cargar la página",
+    "message": "Error al obtener información de la subscripción. Por favor vuelva a cargar la página",
     "context": "This error will be displayed when an error is encountered while loading the user subscription information."
   },
   "errorUnsubscribing": {
@@ -300,19 +300,19 @@
     "context": "This is the title of the help page section on how to find/search."
   },
   "helpFindText": {
-    "message": "Si estás en la búsqueda de una persona desaparecida o animal, es posible que intenta localizarlos mediante la búsqueda en uno de nuestros eventos de desastre. Cuando llegas por primera vez en el localizador de personas, se le presentará con una lista de eventos de desastre disponibles. Cada evento tiene un nombre, una imagen descriptiva relacionada con el evento, y un texto que describe la situación. Si se desplaza hacia abajo, se ve que hay una serie de eventos diferentes desde los que puede seleccionar. Seleccione el evento que usted cree que la persona o animal que están tratando de localizar lo más probable ser asociado. Por ejemplo, si había un evento denominado terremoto de Haití y la persona que está buscando fue visto por última vez en Haití, que volvería a elegir este evento. Se podría seleccionar un evento pulsando en el botón verde grande debajo de la imagen; esto le llevará directamente al motor de búsqueda para este evento desastre en particular. Un nuevo cuadro de búsqueda aparecerá en la parte superior después de haber hecho su selección. Introduzca el nombre de la persona que está tratando de localizar en este cuadro de búsqueda. Los resultados de la búsqueda se actualizan automáticamente con los resultados más relevantes en la parte superior. Es posible adquirir más información acerca de un toque en los detalles vínculo cerca de la parte inferior de cualquier registro partuclar, esto abre una vista detallada. En esta vista detallada, puede consultar la información de registro más detallado, añadir un comentario de su cuenta, o comenzar a seguir un registro de cambios.",
+    "message": "Si estás en la búsqueda de una persona desaparecida o animal, puede intentar localizarlos mediante la búsqueda en uno de nuestros eventos de desastre. Cuando llegues por primera vez al localizador de personas, se le presentará con una lista de eventos de desastres disponibles. Cada evento tiene un nombre, una imagen descriptiva relacionada con el evento, y un texto que describe la situación. Si se desplaza hacia abajo, se ve que hay una serie de eventos diferentes desde los que puede seleccionar. Seleccione el evento con el que usted cree que la persona o animal que está tratando de localizar puede ser asociado más probablemnte. Por ejemplo, si había un evento denominado terremoto de Haití y la persona que está buscando fue visto por última vez en Haití, usted elegiría este evento. Se puede seleccionar un evento pulsando en el botón verde grande debajo de la imagen; esto le llevará directamente al motor de búsqueda para este evento desastre en particular. Un nuevo cuadro de búsqueda aparecerá en la parte superior después de haber hecho su selección. Introduzca el nombre de la persona que está tratando de localizar en este cuadro de búsqueda. Los resultados de la búsqueda se actualizan automáticamente con los resultados más relevantes en la parte superior. Es posible adquirir más información acerca de un toque en los detalles vínculo cerca de la parte inferior de cualquier registro partuclar, esto abre una vista detallada. En esta vista detallada, puede consultar la información de registro más detallada, añadir un comentario a su cuenta, o comenzar a seguir un registro de cambios.",
     "context": "This is the help page article body describing in detail how to find/search for a person or animal."
   },
   "helpReportTitle": {
-    "message": "Informes ayudar a una persona o animal",
+    "message": "Ayuda informando sobre una persona o animal",
     "context": "This is the title of the help page section on how to report."
   },
   "helpReportText": {
-    "message": "Si no puede localizar el preson o animal que busca, entonces usted debe informar a esta persona a nuestro registro localizador de personas. Una vez que haya navegado en un evento de desastre, verá un botón de acción flotante de color rosa en la parte inferior derecha de la pantalla. Al pulsarlo, se iniciará el proceso de información y lanzarse a un asistente independiente que le guiará a través de los pasos de completar un nuevo informe basado en la información que nos proporcione. Una vez completado, se introduce su informe en el libro de registro de búsqueda y ser visible públicamente a los demás. Una vez que complete el informe (si no se informa de manera anónima) comenzará automáticamente para seguir su propio informe de actualizaciones a medida que entran en nuestro registro. Otros pueden comentar en su registro que le proporciona nueva información sobre la persona o animal que ha informado. Puesto que usted está siguiendo este registro, las actualizaciones se enviarán a través del correo electrónico o notificaciones push.",
+    "message": "Si no puede localizar la persona o el animal que busca, entonces usted debe informar sobre esta persona a nuestro registro localizador de personas. Una vez que haya navegado en un evento de desastre, verá un botón de acción flotante de color rosa en la parte inferior derecha de la pantalla. Al pulsarlo, se iniciará el proceso de información y lanzarse a un asistente independiente que le guiará a través de los pasos de completar un nuevo informe basado en la información que nos proporcione. Una vez completado, se introduce su informe en el libro de registro de búsqueda y será visible públicamente a los demás. Una vez que complete el informe (si no se informa de manera anónima) usted comenzará automáticamente a seguir su propio informe de actualizaciones a medida que entren en nuestro registro. Otros pueden comentar en su registro que le proporciona nueva información sobre la persona o animal que ha informado. Puesto que usted está siguiendo este registro, las actualizaciones se enviarán a través del correo electrónico o notificaciones push.",
     "context": "This is the help page article body describing in detail how to report a person or animal."
   },
   "pageAboutTextAbout": {
-    "message": "Esta aplicación  está proporcionada por la Biblioteca Nacional de Medicina de los Estados Unidos, en Bethesda, Maryland. NLM es parte de los Institutos Nacionales de Salud, Departamento de Salud y Servicios Humanos de los Estados Unidos, y tiene en su misión el desarrollo y la coordinación de la tecnología de la comunicación para mejorar la prestación de los servicios de salud. Este sitio se proporciona con el fin de estudiar la utilidad de este tipo de herramientas en respuesta a los desastres. La tecnología subyacente fue desarrollado a través del proyecto perdió el buscador persona, parte de la contribución de la NLM para Asociación de Preparación de Emergencia de los Hospitales de Bethesda. La asociación recibió fondos federales iniciales para LPF y otros proyectos de NLM de TI en 2008. El proyecto LPF está apoyado actualmente por el Programa de Investigación Intramural del NIH, a través del Centro Nacional Lister Hill de la NLM para las Comunicaciones Biomédicas. El desarrollo de software está encabezada por la Subdirección de  Comunicación de Ingeniería de LHNCBC, con contenido adicional de la rama de Ciencias Informáticas de LHNCBC y el Centro de Investigación de Desastres Gestión de la Información, parte de los Servicios Especializados de Información de la NLM.",
+    "message": "Esta aplicación  está proporcionada por la Biblioteca Nacional de Medicina (NLM) de los Estados Unidos, en Bethesda, Maryland. NLM es parte de los Institutos Nacionales de Salud, Departamento de Salud y Servicios Humanos de los Estados Unidos, y tiene en su misión el desarrollo y la coordinación de la tecnología de la comunicación para mejorar la prestación de los servicios de salud. Este sitio se proporciona con el fin de estudiar la utilidad de este tipo de herramientas en respuesta a los desastres. La tecnología subyacente fue desarrollada a través del proyecto Lost Person Finder, parte de la contribución de la NLM para Asociación de Preparación de Emergencia de los Hospitales de Bethesda. La asociación recibió fondos federales iniciales para LPF y otros proyectos de NLM de TI en 2008. El proyecto LPF está apoyado actualmente por el Programa de Investigación Intramural del NIH, a través del Centro Nacional Lister Hill de la NLM para las Comunicaciones Biomédicas. El desarrollo de software está encabezada por la Subdirección de  Comunicación de Ingeniería de LHNCBC, con contenido adicional de la rama de Ciencias Informáticas de LHNCBC y el Centro de Investigación de Desastres Gestión de la Información, parte de los Servicios Especializados de Información de la NLM.",
     "context": "This is the first paragraph of verbiage on the About page describing the purpose of the PEOPLE LOCATOR."
   },
   "pageAboutTextBrowser": {
@@ -352,11 +352,11 @@
     "context": "Beginning of the third paragraph on the Privacy page."
   },
   "pagePrivacyText3b": {
-    "message": "la  dirección de correo electrónico y el ID del dispositivo  de la persona que reporta se guardan, pero no son visibles al público.",
+    "message": "la  dirección de correo electrónico y el ID del dispositivo de la persona que reporta se guardan, pero no son visibles al público.",
     "context": "End of the third paragraph on the Privacy page."
   },
   "pagePrivacyText4": {
-    "message": "En general Protección de datos de la NLM",
+    "message": "Protección de datos general de la NLM",
     "context": "Text for the link to NLM's privacy policy page."
   },
   "pagePrivacyText5": {
@@ -372,7 +372,7 @@
     "context": "The word the."
   },
   "backButton": {
-    "message": "ATRAS",
+    "message": "ATRÁS",
     "context": "The text label for all buttons allowing the user to navigate back."
   },
   "pagePrivacyBullet1": {
@@ -384,7 +384,7 @@
     "context": "The word application as it applies to the ReUnite app."
   },
   "pagePrivacyBullet3": {
-    "message": "otras organizaciones sindicados",
+    "message": "otras organizaciones sindicadas",
     "context": "The fourth bullet point on the Privacy page."
   },
   "pageResourcesTitle1": {
@@ -436,7 +436,7 @@
     "context": "Text label for several links to Medline Plus on the Resource page."
   },
   "followUs": {
-    "message": "Siguenos...",
+    "message": "Síguenos...",
     "context": "Used to prompt user to follow us on a social network of their choice."
   },
   "and": {
@@ -444,7 +444,7 @@
     "context": "The word and used between two nouns."
   },
   "trademarkText": {
-    "message": "son marcas comerciales registradas de el Departamento de Salud y Servicios Humanos de los EE.UU.",
+    "message": "son marcas comerciales registradas por el Departamento de Salud y Servicios Humanos de los EE.UU.",
     "context": "The second half of the trademark sentence."
   },
   "tabDisasterEvents": {
@@ -548,7 +548,7 @@
     "context": "Part 3 of HTML alt tag for a personal photo (e.g. reported in Ecuador Earthquake)"
   },
   "eventListFindReportButton": {
-    "message": "Encontrar / Report a persona o animal",
+    "message": "Encontrar / Reportar persona o animal",
     "context": "This is the button text on the home page to Find or Report a person or animal."
   },
   "searchPlaceholder": {
@@ -708,11 +708,11 @@
     "context": "This is the text option displayed for a user to choose the status of the animal they are reporting."
   },
   "explainMissingA": {
-    "message": "animales se cree que falta",
+    "message": "animal que se cree que falta",
     "context": "The label next to the status selection button for missing."
   },
   "explainFoundA": {
-    "message": "animal se ha encontrado la salud desconocida",
+    "message": "animal se ha encontrado con salud desconocida",
     "context": "The label next to the status selection button for found."
   },
   "explainAliveA": {
@@ -748,7 +748,7 @@
     "context": "The label next to the person sex selection button for female."
   },
   "explainSexOtherP": {
-    "message": "el género de la persona es otra",
+    "message": "el género de la persona es otro",
     "context": "The label next to the person sex selection button for other."
   },
   "explainSexUnknownP": {
@@ -764,11 +764,11 @@
     "context": "The label next to the animal sex selection button for female."
   },
   "explainSexOtherA": {
-    "message": "sexo de los animales es otra",
+    "message": "sexo del  animal es otro",
     "context": "The label next to the animal sex selection button for other."
   },
   "explainSexUnknownA": {
-    "message": "Se desconoce el género de los animales",
+    "message": "Se desconoce el género del animal",
     "context": "The label next to the animal sex selection button for unknown."
   },
   "reportChoiceAgeP": {
@@ -784,11 +784,11 @@
     "context": "The label next to the status selection button for unknown."
   },
   "explainAgeUnknownP": {
-    "message": "edad de la persona es desconocida",
+    "message": "la edad de la persona es desconocida",
     "context": "The label next to the person age selection button for unknown."
   },
   "explainAgeUnknownA": {
-    "message": "edad de los animales es desconocido",
+    "message": "la edad del  animal es desconocido",
     "context": "The label next to the animal age selection button for unknown."
   },
   "continue": {
@@ -800,7 +800,7 @@
     "context": "This is the section title displayed for a user to enter the name of the person they are reporting."
   },
   "reportChoiceNameA": {
-    "message": "Por favor, introduzca el nombre y / o un compañero de número de identificación del animal que está reportando.",
+    "message": "Por favor, introduzca el nombre y / o número de identificación del microchip del animal que está reportando.",
     "context": "This is the section title displayed for a user to enter the name and/or the buddy identification number of the animal they are reporting."
   },
   "explainNameP": {
@@ -812,7 +812,7 @@
     "context": "The text label for name entry of an animal."
   },
   "explainBuddyA": {
-    "message": "compinche número de identificación de animales",
+    "message": "número de identificación del microchip del animal",
     "context": "The text label for buddty identification number entry of an animal."
   },
   "reportChoiceNameUnknownP": {
@@ -828,11 +828,11 @@
     "context": "The label next to the person name selection button for unknown."
   },
   "explainNameUnknownA": {
-    "message": "nombrar y Buddy número de identificación del animal es desconocida",
+    "message": "nombrar y número de identificación del microchip del animal es desconocido",
     "context": "The label next to the animal name selection button for unknown."
   },
   "cameraError": {
-    "message": "Ninguna cámara detecta por el navegador web. Tiene la opción de utilizar su aplicación de la cámara en su lugar.",
+    "message": "Ninguna cámara detectada por el navegador web. Tiene la opción de utilizar su aplicación de la cámara en su lugar.",
     "context": "This toast notification is displayed when there is an error detecting the camera on the user device."
   },
   "browserLimitation": {
@@ -912,7 +912,7 @@
     "context": "This toast notification will be displayed while the report is being sent in."
   },
   "reportSubmit": {
-    "message": "Enviar reporte",
+    "message": "Enviar informe",
     "context": "This is the section title on the last page of the reporting wizard. The user will choose how to submit the report."
   },
   "explainSignInP": {
@@ -924,11 +924,11 @@
     "context": "If the user is not signed in, we will prompt them to sign in so that they can recieve updates to their reported record."
   },
   "explainSubmitP": {
-    "message": "Si desea que se le notifique cuando la información adicional sobre esta persona vuelve a estar disponible, optar por presentar el informe ahora.",
+    "message": "Si desea que se le notifique cuando la información adicional sobre esta persona vuelve a estar disponible, elija  presentar el informe ahora.",
     "context": "If the user is already signed in, we will ask them to submit the record and subscribe to updates."
   },
   "explainSubmitA": {
-    "message": "Si desea que se le notifique cuando la información adicional acerca de este animal esté disponible, optar por presentar el informe ahora.",
+    "message": "Si desea que se le notifique cuando la información adicional acerca de este animal esté disponible, elija por presentar el informe ahora.",
     "context": "If the user is already signed in, we will ask them to submit the record and subscribe to updates."
   },
   "explainAnonP": {
@@ -948,11 +948,11 @@
     "context": "We inform the user of the URL that corresponds to the report they just completed so that they may bookkmark or share it for later."
   },
   "explainCopy2": {
-    "message": "Copia esta URL en el portapapeles para que pueda compartir o marcarlo.",
+    "message": "Copia esta URL en el portapapeles para que pueda compartir o marcarla.",
     "context": "This is the text below the copy to clipboard button informing the user what the button does."
   },
   "buddyIdentificationNumber": {
-    "message": "Número de Identificación de amigos",
+    "message": "Número de identificación del microchip",
     "context": "This is the label to the Buddy Identification Number field which is displayed for animals."
   },
   "notifyRecordFollow": {
@@ -960,7 +960,7 @@
     "context": "This notification will appear after the user unfollows a record via the full record view."
   },  
   "notifyRecordUnfollow": {
-    "message": "Que ya no están siguiendo este registro",
+    "message": "Ya no está siguiendo este registro",
     "context": "This notification will appear after the user unfollows a record via the full record view."
   },
   "followStatusTrue": {
@@ -972,11 +972,11 @@
     "context": "This label is displayed next to a toggle switch displaying that the user is not folliwng the currently viewed record."
   },
   "followButtonExplain": {
-    "message": "Recibir una notificación cuando se hace un cambio a este registro o se añade un comentario",
+    "message": "Recibir una notificación cuando se haga un cambio en este informe o se añada un comentario",
     "context": "This label is displayed below the follow user toggle button explaining what the button does."
   },
   "followButtonAnon": {
-    "message": "Para seguir un registro y recibir notificaciones cuando se actualiza, debe firmar por primera vez en",
+    "message": "Para seguir un informe y recibir notificaciones cuando se actualice, debe firmar primero",
     "context": "The follow record button is disabled when a user is not signed in, aka anonymous. We inform them that to follow a record they must first sign in."
   },
   "longerComment": {
@@ -984,7 +984,7 @@
     "context": "The user is notified to enter a longer comment if it is too short"
   },
   "commentBeingSubmittedToast": {
-    "message": "Comentario al que se presentó ...",
+    "message": "Enviando comentario...",
     "context": "This toast notification will be displayed while the new comment is being sent in."
   }
 }
