@@ -68,7 +68,7 @@
     "context": "Error message presented when a user provides the incorrect username and/or password."
   },
   "plusError2": {
-    "message": "Error: la cuenta está bloqueada temporalmente por uso repetido de nombre de usuario o contraseña erróneos, intente más tarde",
+    "message": "Error: la cuenta está bloqueada temporalmente por uso repetido de nombre de usuario o contraseña erróneos, inténtelo más tarde",
     "context": "Error message presented when a user fails to login repeatedly."
   },
   "plusError6": {
@@ -100,7 +100,7 @@
     "context": "Error message presented when the reCaptcha session has expired and the user must reload the page to continue."
   },
   "plusError16": {
-    "message": "Error: contraseñas no coinciden",
+    "message": "Error: las contraseñas no coinciden",
     "context": "Error message presented when entered password do not match one another."
   },
   "plusError20": {
@@ -132,7 +132,7 @@
     "context": "Error message presented when attempting to follow a record the user is already following."
   },
   "plusError602": {
-    "message": "Error: No se puede dejar de seguir este registro ya que no están actualmente siguiendolo",
+    "message": "Error: No se puede dejar de seguir este registro ya que no están actualmente siguiéndolo",
     "context": "Error message presented when "
   },
   "plusError9999": {
@@ -164,7 +164,7 @@
     "context": "This notification will appear after the user successfully changes their password."
   },
   "notifyRecordUnfollowed": {
-    "message": "Grabar ONU-seguido.",
+    "message": "Este registro ya no se sigue.",
     "context": "This notification will appear after the user unfollows a particular record."
   },
   "notifyUnsubscribed": {
@@ -308,7 +308,7 @@
     "context": "This is the title of the help page section on how to report."
   },
   "helpReportText": {
-    "message": "Si no puede localizar el preson o animal que busca, entonces usted debe informar a esta persona a nuestro registro localizador de personas. Una vez que haya navegado en un evento de desastre, verá un botón de acción flotante de color rosa en la parte inferior derecha de la pantalla. Al pulsarlo, se iniciará el proceso de información y lanzarse a un asistente independiente que le guiará a través de los pasos de completar un nuevo informe basado en la información que nos proporcione. Una vez completado, se introduce su informe en el libro de registro de búsqueda y ser visible públicamente a los demás. Una vez que complete el informe (si no se informa de manera anónima) comenzará automáticamente para seguir su propio informe de actualizaciones a medida que entran en nuestro registro. Otros pueden comentar en su registro que le proporciona nueva información sobre la persona o animal que ha informado. Puesto que usted está siguiendo este registro, las actualizaciones se enviarán a través del correo electrónico o notificaciones push.",
+    "message": "Si no puede localizar la persona o animal que busca, entonces usted debe informar de esta persona a nuestro registro localizador de personas. Una vez que haya navegado en un evento de desastre, verá un botón de acción flotante de color rosa en la parte inferior derecha de la pantalla. Al pulsarlo, se iniciará el proceso de información y lanzarse a un asistente independiente que le guiará a través de los pasos de completar un nuevo informe basado en la información que nos proporcione. Una vez completado, se introduce su informe en el libro de registro de búsqueda y ser visible públicamente a los demás. Una vez que complete el informe (si no se informa de manera anónima) comenzará automáticamente para seguir su propio informe de actualizaciones a medida que entran en nuestro registro. Otros pueden comentar en su registro que le proporciona nueva información sobre la persona o animal que ha informado. Puesto que usted está siguiendo este registro, las actualizaciones se enviarán a través del correo electrónico o notificaciones push.",
     "context": "This is the help page article body describing in detail how to report a person or animal."
   },
   "pageAboutTextAbout": {
@@ -344,7 +344,7 @@
     "context": "Large portion of the second paragraph of the Privacy page."
   },
   "pagePrivacyText2c": {
-    "message": "podrá difundirse a otros organismos, instituciones y organizaciones de asistencia a los esfuerzos para localizar a personas desaparecidas, incluyendo pero no limitado a la",
+    "message": "podrá difundirse a otros organismos, instituciones y organizaciones de asistencia a los esfuerzos para localizar a personas desaparecidas, incluyendo pero no limitado a ",
     "context": "End portion of the second paragraph of the Privacy page."
   },
   "pagePrivacyText3a": {
@@ -436,7 +436,7 @@
     "context": "Text label for several links to Medline Plus on the Resource page."
   },
   "followUs": {
-    "message": "Siguenos...",
+    "message": "Síguenos...",
     "context": "Used to prompt user to follow us on a social network of their choice."
   },
   "and": {
@@ -444,7 +444,7 @@
     "context": "The word and used between two nouns."
   },
   "trademarkText": {
-    "message": "son marcas comerciales registradas de el Departamento de Salud y Servicios Humanos de los EE.UU.",
+    "message": "son marcas comerciales registradas de el Departamento de Salud y Servicios Humanos de los EEUU.",
     "context": "The second half of the trademark sentence."
   },
   "tabDisasterEvents": {
@@ -460,7 +460,7 @@
     "context": "The title of the 3rd tab allowing someone to Report a new person or pet."
   },
   "tagline": {
-    "message": "Encuentra y denuncia de desaparición de la familia, amigos y mascotas durante los desastres.",
+    "message": "Encuentra y denuncia de desaparición de familia, amigos y mascotas durante los desastres.",
     "context": "The tagline is the summary of what the application is for."
   },
   "eventRetired": {
@@ -548,7 +548,7 @@
     "context": "Part 3 of HTML alt tag for a personal photo (e.g. reported in Ecuador Earthquake)"
   },
   "eventListFindReportButton": {
-    "message": "Encontrar / Report a persona o animal",
+    "message": "Encontrar / Reportar persona o animal",
     "context": "This is the button text on the home page to Find or Report a person or animal."
   },
   "searchPlaceholder": {
@@ -560,7 +560,7 @@
     "context": "When a search is performed this word is prefixed with the number of results, ie. 17 records"
   },
   "moreDetails": {
-    "message": "Más Detalles",
+    "message": "Más detalles",
     "context": "When search results are displayed, a user can click on the more details link to open the record displaying all record data."
   },
   "sexMale": {
@@ -684,7 +684,7 @@
     "context": "The label next to the status selection button for alive & well."
   },
   "explainInjuredP": {
-    "message": "persona ha sido encontrado y se lesionó",
+    "message": "persona ha sido encontrada y se lesionó",
     "context": "The label next to the status selection button for injured."
   },
   "explainDeceasedP": {
@@ -708,11 +708,11 @@
     "context": "This is the text option displayed for a user to choose the status of the animal they are reporting."
   },
   "explainMissingA": {
-    "message": "animales se cree que falta",
+    "message": "animal se cree que falta",
     "context": "The label next to the status selection button for missing."
   },
   "explainFoundA": {
-    "message": "animal se ha encontrado la salud desconocida",
+    "message": "animal se ha encontrado con salud desconocida",
     "context": "The label next to the status selection button for found."
   },
   "explainAliveA": {
@@ -740,15 +740,15 @@
     "context": "This is the text option displayed for a user to choose the gender of the person they are reporting."
   },
   "explainSexMaleP": {
-    "message": "el género de la persona es de sexo masculino",
+    "message": "el género de la persona es masculino",
     "context": "The label next to the person sex selection button for male."
   },
   "explainSexFemaleP": {
-    "message": "el género de la persona es de sexo femenino",
+    "message": "el género de la persona es femenino",
     "context": "The label next to the person sex selection button for female."
   },
   "explainSexOtherP": {
-    "message": "el género de la persona es otra",
+    "message": "el género de la persona es otro",
     "context": "The label next to the person sex selection button for other."
   },
   "explainSexUnknownP": {
@@ -812,7 +812,7 @@
     "context": "The text label for name entry of an animal."
   },
   "explainBuddyA": {
-    "message": "compinche número de identificación de animales",
+    "message": "número de identificación del animal",
     "context": "The text label for buddty identification number entry of an animal."
   },
   "reportChoiceNameUnknownP": {
@@ -820,7 +820,7 @@
     "context": "This is the section title displayed for the use to choose name unknown."
   },
   "reportChoiceNameUnknownA": {
-    "message": "Si no está seguro del nombre y número de identificación de amigos, por favor seleccione desconocido.",
+    "message": "Si no está seguro del nombre y número de identificación, por favor seleccione desconocido.",
     "context": "This is the sextion title displayed when the user does not know name and buddy identification number."
   },
   "explainNameUnknownP": {
@@ -828,11 +828,11 @@
     "context": "The label next to the person name selection button for unknown."
   },
   "explainNameUnknownA": {
-    "message": "nombrar y Buddy número de identificación del animal es desconocida",
+    "message": "nombre y número de identificación del animal son desconocidos",
     "context": "The label next to the animal name selection button for unknown."
   },
   "cameraError": {
-    "message": "Ninguna cámara detecta por el navegador web. Tiene la opción de utilizar su aplicación de la cámara en su lugar.",
+    "message": "Ninguna cámara detectada por el navegador web. Tiene la opción de utilizar su aplicación de la cámara en su lugar.",
     "context": "This toast notification is displayed when there is an error detecting the camera on the user device."
   },
   "browserLimitation": {
@@ -916,15 +916,15 @@
     "context": "This is the section title on the last page of the reporting wizard. The user will choose how to submit the report."
   },
   "explainSignInP": {
-    "message": "Si desea que se le notifique cuando la información adicional sobre esta persona vuelve a estar disponible, inicia sesión antes de enviar el informe.",
+    "message": "Si desea que se le notifique cuando la información adicional sobre esta persona vuelve a estar disponible, inicie sesión antes de enviar el informe.",
     "context": "If the user is not signed in, we will prompt them to sign in so that they can recieve updates to their reported record."
   },
   "explainSignInA": {
-    "message": "Si desea que se le notifique cuando la información adicional acerca de este animal esté disponible, inicia sesión antes de enviar el informe.",
+    "message": "Si desea que se le notifique cuando la información adicional acerca de este animal esté disponible, inicie sesión antes de enviar el informe.",
     "context": "If the user is not signed in, we will prompt them to sign in so that they can recieve updates to their reported record."
   },
   "explainSubmitP": {
-    "message": "Si desea que se le notifique cuando la información adicional sobre esta persona vuelve a estar disponible, optar por presentar el informe ahora.",
+    "message": "Si desea que se le notifique cuando la información adicional sobre esta persona vuelva a estar disponible, optar por presentar el informe ahora.",
     "context": "If the user is already signed in, we will ask them to submit the record and subscribe to updates."
   },
   "explainSubmitA": {
@@ -952,7 +952,7 @@
     "context": "This is the text below the copy to clipboard button informing the user what the button does."
   },
   "buddyIdentificationNumber": {
-    "message": "Número de Identificación de amigos",
+    "message": "Número de Identificación",
     "context": "This is the label to the Buddy Identification Number field which is displayed for animals."
   },
   "notifyRecordFollow": {
