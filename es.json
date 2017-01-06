@@ -60,11 +60,11 @@
     "context": "Verbiage describing the expiration date of the OMB notice."
   },
   "plusError1": {
-    "message": "Error: Nombre de usuario o contraseña inválidos",
+    "message": "Error: Nombre de usuario o contraseña inválido",
     "context": "Error message presented when a user provides the incorrect username and/or password."
   },
   "plusError2": {
-    "message": "Error: la cuenta está bloqueada temporalmente por uso repetido de nombre de usuario o contraseña erróneos, intente más tarde",
+    "message": "Error: la cuenta está bloqueada temporalmente por uso repetido de nombre de usuario o contraseña erróneo, intente más tarde",
     "context": "Error message presented when a user fails to login repeatedly."
   },
   "plusError6": {
